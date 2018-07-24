@@ -41,9 +41,9 @@ Sep
 > Quoto
 
 
-![Here described the img] ./img/MyCuteBunny.jpg
+![Here described the img] (./img/MyCuteBunny.jpg)
 
-[url]: http://1.2.3.4
+
 
 ---  
 ***  
@@ -51,5 +51,5 @@ Sep
 codes here[^1]  
 ```
 
-[^1]: What?
+[^1]( What? )
 
