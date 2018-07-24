@@ -20,9 +20,9 @@ Just
 
 Sep  
   
-** B **  
+**B**  
 
-* I *  
+*I*  
 
 ~~A~~  
 
@@ -48,8 +48,12 @@ Sep
 ---  
 ***  
 ```
-codes here[^1]  
+codes here
 ```
 
-[^1]( What? )
+Google[^1]
 
+[Google][2]
+
+[^1]: https://www.google.com
+[2]: https://www.google.com
