@@ -41,7 +41,7 @@ Sep
 > Quoto
 
 
-![Here described the img] (./img/MyCuteBunny.jpg)
+![Here described the img](img/MyCuteBunny.jpg)
 
 
 
