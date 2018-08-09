@@ -19,7 +19,7 @@ got it?
 Just  
 
 Sep  
-  
+
 **B**  
 
 *I*  
@@ -37,7 +37,7 @@ Sep
 1. 1
 2. 2
 	a. 2.1
-  
+
 > Quoto
 
 
@@ -51,9 +51,12 @@ Sep
 codes here
 ```
 
-Google[^1]
+[Google](http://www.google.com/)
 
-[Google][2]
+[Google][link]
 
-[^1]: https://www.google.com
-[2]: https://www.google.com
+[link]: https://www.google.com
+
+| A   | B   |
+| --- | --- |
+| C   | D   |
